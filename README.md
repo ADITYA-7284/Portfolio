@@ -10,7 +10,7 @@ Live Demo: [adxtya-portfolio.netlify.app](https://adxtya-portfolio.netlify.app)
 
 * **Interactive Navigation:** Smooth single-page scrolling across sections (Home, Work, Design, Contact).
 * **Dynamic Content:** Showcases full-stack applications, competitive programming achievements, and design work.
-* **Responsive Layout:** Tailored design that scales seamlessly across desktop, tablet and mobile browsers.
+* **Responsive Layout:** Tailored design that scales seamlessly across desktop, tablet, and mobile browsers.
 * **Modern UI/UX:** Clean dark-mode aesthetics with custom animations and polished interactive controls.
 
 ---
